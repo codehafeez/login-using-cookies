@@ -14,8 +14,8 @@ http://localhost/login-using-cookies
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/login-remember-me/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/login-remember-me/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/login-using-cookies/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/login-using-cookies/main/Screenshots/Output-02.png)
 
 
 ## 🔗 www.codehafeez.com
